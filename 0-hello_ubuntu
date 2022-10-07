@@ -1,0 +1,3 @@
+echo 'My readme file' > README.md   
+echo 'Linux' > 0-hello_ubuntu
+mkdir 0x00-vagrant
